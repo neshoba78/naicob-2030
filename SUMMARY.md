@@ -11,3 +11,4 @@
 * [Massachusetts Commonwealth Officials](mass-officials.md)
 * [United States Officials](us-officials.md)
 * [Intertribal Officials](tribal-officials.md)
+* [Glossary](GLOSSARY.md)
