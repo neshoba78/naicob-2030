@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Title Page](README.md)
+* [Mission Statement](chapter1.md)
+* Historical Background
+
