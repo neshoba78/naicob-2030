@@ -1,3 +1,4 @@
-# My Awesome Book
+# North American Indian Center of Boston 2030
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Copyright 2018 North American Indian Center of Boston
+
