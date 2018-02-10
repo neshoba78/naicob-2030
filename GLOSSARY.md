@@ -1,2 +1,5 @@
 ## Indian
 The terminology used to describe American Indian people has changed over the years, as have the people that are recognized by state and federal governments as being American Indian. The terms that are often used today include American Indian, Native American, Indigenous, First Peoples, Aboriginal, and First Nations. Typically, First Nations is used to describe American Indian people in Canada and Aboriginal is used to describe the Native people of Australia. It is important to note, too, that the Native people of Alaska have been recognized as Alaska Native by the federal government since 1971. The Native people of Hawaii, or Native Hawaiians, are the most recent Native population to be included in grant monies made available to American Indians (although they are not formally recognized as a tribe). 
+
+## Mixed-use
+Mixed-use development is a type of urban development that blends residential, commercial, cultural, institutional, or entertainment uses, where those functions are physically and functionally integrated, and that provides pedestrian connections.
