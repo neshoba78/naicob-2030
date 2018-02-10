@@ -6,5 +6,5 @@
 * [Imagine Boston 2030 Alignment](2030-vision-alignment.md)
 * [2018 State of the State Alignment](2018-state-of-state.md)
 * [Directory](directory.md)
-* [Boston City Officals](city-officials.md)
-
+* [Boston City Officials](city-officials.md)
+* [Massachusetts Commonwealth Officials](mass-officials.md)
