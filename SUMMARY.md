@@ -2,5 +2,5 @@
 
 * [Title Page](README.md)
 * [Mission Statement](chapter1.md)
-* Historical Background
+* [Historical Background](historical-background.md)
 
