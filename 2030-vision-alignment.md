@@ -1,5 +1,7 @@
-#Imagine Boston 2030 Alignment
+#City of Boston Visioning
 
 ##City Scale Planning
+
+**Imagine Boston 2030 Alignment**
 
 The plan spread for Imagine Boston 2030 states that 15,000 voices were included in its composition. We need to determine the level of Indigenous voice inclusion in this document. Major areas of action include: housing, transportation, economy, immigration, and ecology. High level housing priorities include: affordability, vitality of neighborhoods, expansion of neighborhoods to create new housing, access to opportunity in historically underserved neighborhoods. High level transportation priorities include: accessible (public) transportation and improved commuter experience. High level economic priorities include: supporting a vibrant and growing economy, encouraging mixed-use growth in the commercial core, encouraging the development of Franklin Park as a city-wide destination, and expansion of neighborhoods to create new jobs. High level immigration priorities include continuance of being a safe haven. High level ecological priorities include: being a national leader in preparation for climate change, sustainability of the waterfront, and becoming carbon neutral by 2050. Overall, Mayor Marty Walsh describes an effort to enhance the quality of life for all people in the City of Boston.
