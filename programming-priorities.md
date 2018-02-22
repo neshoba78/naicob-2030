@@ -1,0 +1,13 @@
+#Programming Priorities
+
+North American Indian Center of Boston (NAICOB) has provided cultural, social, educational, and professional related services to the New England Native American* community for over 45 years. As the oldest urban Indian center in Massachusetts, our mission is to empower the Native American community with the goal of improving the quality of life of Indigenous peoples. North American Indian Center will strive to offer programming based upon the "Healthy Community" model created by the Balndin Foundation to fulfill our mission.
+
+1. **Lifelong Learning** - North American Indian Center of Boston offers community members quality educational opportunities fit for various age groups. NAICOB Board of Directors members are required to participate in annual trainings / retreats. NAICOB staff are required to participate in quarterly trainings that contribute to their professional development.
+2. **Inclusion (Diversity)** - North American Indian Center of Boston is welcoming of people from different tribes, backgrouns and beliefs. NAICOB is a place for intertribal community building and sharing of cultural capital.
+3. **Recreational and Artistic Opportunity** - North American Indian Center of Boston offers diverse cultural arts and recreational opportunities year-round.
+4. **Environmental Stewardship** - North American Indian Center of Boston promotes traditional methods of environmental preservation. This includes providing an outdoor space where traditional practices and ceremonies can be exercised.
+5. **Infrastructure and Services** - North American Indian Center of Boston is well structured and has set benchmarks for leadership. Community has equal access to essential and basic services.
+6. **Safety and Security** - North American Indian Center of Boston provides a safe home-away-from-home to the satisfaction of our community members.
+7. **Community Leadership** - North American Indian Center of Boston provides opportunities for community members to gain skills needed to advance educational and professional goals.
+8. **Economic Opportunity** - North American Indian Center of Boston provides maintains and operates a facility which provides opportunity for community members to develop skills needed to be economically sufficient.
+9. **Spirituality and Wellness** - North American Indian Center of Boston provides maintains and operates a facility for our community members which is a safe place for traditional practices and where they can access adequate culturally-driven healthcare and wellness services.

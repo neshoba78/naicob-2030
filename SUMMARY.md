@@ -3,7 +3,7 @@
 * [Title Page](README.md)
 * [Executive Summary](executive-summary.md)
 * [Mission Statement](mission-statement.md)
-* [Programming Priorities]()
+* [Programming Priorities](programming-priorities.md)
 * [Historical Background](historical-background.md)
 * [Organizational Profile]()
 * [Situation Analysis]()
